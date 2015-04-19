@@ -24,3 +24,14 @@ E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\System.Web.Http.WebHost.xml
 E:\Desarrollo\Notificaciones\Notificaciones.Web\obj\Debug\Notificaciones.Web.csprojResolveAssemblyReference.cache
 E:\Desarrollo\Notificaciones\Notificaciones.Web\obj\Debug\Notificaciones.Web.dll
 E:\Desarrollo\Notificaciones\Notificaciones.Web\obj\Debug\Notificaciones.Web.pdb
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.Owin.dll
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.Owin.Security.dll
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Owin.dll
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.Owin.xml
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Desarrollo\Notificaciones\Notificaciones.Web\bin\Microsoft.Owin.Security.xml
